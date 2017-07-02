@@ -1,0 +1,2 @@
+# slotscore
+slots game core
